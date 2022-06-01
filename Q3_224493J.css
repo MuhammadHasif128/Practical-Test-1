@@ -1,0 +1,32 @@
+*{
+  font-family: "Fantasy", "serif";
+  font-size: 17.6px;
+}
+
+h1{
+  background-color: #b36b00;
+  color: #ffad33;
+  height: 100px;
+  padding-top: 60px;
+  text-align: center;
+}
+
+span{
+  font-style: italic;
+}
+
+table{
+  border: 3px solid #002b80;
+}
+
+caption{
+  font-weight: bold;
+}
+
+td{
+  padding: 12px;
+}
+
+tfoot{
+  text-align: right;
+}
